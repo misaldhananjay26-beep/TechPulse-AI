@@ -1,0 +1,41 @@
+{
+  "name": "TechPulse AI – by Dhananjay",
+  "short_name": "TechPulse AI",
+  "description": "AI-powered global tech research platform for India's innovators",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#050a14",
+  "theme_color": "#00d4ff",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect width='192' height='192' rx='24' fill='%23050a14'/><text x='50%' y='55%' text-anchor='middle' dominant-baseline='middle' font-size='120'>⚡</text></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='64' fill='%23050a14'/><text x='50%' y='55%' text-anchor='middle' dominant-baseline='middle' font-size='320'>⚡</text></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "categories": ["education", "news", "productivity"],
+  "screenshots": [],
+  "shortcuts": [
+    {
+      "name": "Dashboard",
+      "url": "/index.html#dashboard",
+      "description": "View today's tech report"
+    },
+    {
+      "name": "Research",
+      "url": "/index.html#research",
+      "description": "Deep AI Research Mode"
+    },
+    {
+      "name": "Opportunities",
+      "url": "/index.html#opportunities",
+      "description": "Student Opportunities"
+    }
+  ]
+}
